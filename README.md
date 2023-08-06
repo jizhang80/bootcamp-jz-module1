@@ -12,6 +12,8 @@ https://jizhang80.github.io/bootcamp-jz-module1/
 * add some comment for css and html.
 * change hero image from css background img to html page ```<img>``` element.
 * add ```alt``` for all the ```<img>``` elements.
+* consolidate some css redundancy
+* remove footer since there is no footer in Mock-UP
 
 ## User Story
 AS A marketing agency  
