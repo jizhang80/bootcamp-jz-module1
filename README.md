@@ -1,8 +1,15 @@
-# Caleton Bootcamp module 1
+# Carleton Bootcamp module 1
 author: Ji Zhang  
+
+## Description
+For Carleton Bootcamp module 1 feature request challenge.  
+Delivered base on starter code, edited follow the **User Story** and **Acceptance Criteria** and **Grading Requirements**.
+
+## Screenshot
+![Screenshot of final page](./assets/images/screenshot.jpg)
   
-## live URL page link
-https://jizhang80.github.io/bootcamp-jz-module1/  
+## deployed application live URL page link
+[deployed application live URL page link](https://jizhang80.github.io/bootcamp-jz-module1/)  
   
 ## the page edit record
 * change title to "Horiseon".
